@@ -1,0 +1,38 @@
+ <head>
+        <title>HTML Tutorial</title>
+    </head>
+
+    <body>
+        <!-- This code below is the navigation bar-->
+        <div style="background-color:rgb(255, 0, 55); height:30px;" <div style="background-color:aqua; height:50px;"
+            <ul>
+            <li>Find Store</li>Find Store
+            <li>Sign In</li>
+            </ul>
+            <ul style="list-style-type: none; margin:0; padding 0;">
+                <div"stlye="background-color:lime green"Nike</div>"
+                    <li> style="display: inline;">mens</li>
+                    <li> style="display: inline;">womens</li>
+                    <li> style="display: inline;">kids</li>
+                    <li> style="display: inline;">sale</li>
+            </ul>
+        </div>
+        <div style="background-size: contain;
+        height: 600px;
+        width:1250px;
+        background-repeat: no-repeat;
+        background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7OB-xgSzfGXPMsTi-laxmCIONu5H0vhO5SA&s)"
+            Landing Image
+        <div>style="background-color"baby blue" nike> Landing Image</div>
+</div>
+</body>
+
+</html>
+        
+        
+        <h1>This is a heading</h1>
+        <p>This is a paragraph.</p>
+
+    </body>
+
+    </html>
